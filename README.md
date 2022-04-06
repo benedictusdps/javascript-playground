@@ -1,2 +1,1 @@
 # JavaScript Playground
-# javascript-playground
